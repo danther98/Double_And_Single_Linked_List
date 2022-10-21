@@ -1,11 +1,8 @@
-# Double_And_Single_Linked_List
-This is a program that will take a csv list and separate them into different data structures which the user can manipulate through a menu
-
 ____To run program___
 1. Load .java files into CSX server using WinSCP
 2. Place all files (Including inputFile) into same folder on server
 
----file should look like---
+file should look like
 Course.java
 DoubleLinkedList.java
 Header.java
