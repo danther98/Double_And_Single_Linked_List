@@ -10,7 +10,7 @@ inputFile.txt
 makeDoublyLists.java
 SingleLinkedList.java
 Student.java
----------------------------
+
 
 3. Within CSX server, Run command "javac makeDoublyLists.java"
 4. type "ls" to ensure .class files have been made for each .java file
