@@ -1,17 +1,6 @@
 ____To run program___
 1. Load .java files into CSX server using WinSCP
 2. Place all files (Including inputFile) into same folder on server
-
-file should look like
-Course.java
-DoubleLinkedList.java
-Header.java
-inputFile.txt
-makeDoublyLists.java
-SingleLinkedList.java
-Student.java
-
-
 3. Within CSX server, Run command "javac makeDoublyLists.java"
 4. type "ls" to ensure .class files have been made for each .java file
 5. Run command "java makeDoublyLists" to run program.
